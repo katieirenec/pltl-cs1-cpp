@@ -11,7 +11,7 @@ title:            PLTL for CS1 in C++
 tagline:          "Materials used for Peer-Led Team Learning at Cal State Monterey Bay and Hartnell College, organized by subject"
 description:      
 url:              ''
-baseurl:          /
+baseurl:          /pltl-cs1-cpp/
 
 author:
   name:           'Katie Cunningham'
