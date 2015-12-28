@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            PLTL for CS1 in C++
+tagline:          "Materials used for Peer-Led Team Learning at Cal State Monterey Bay and Hartnell College, organized by subject"
+description:      
+url:              ''
+baseurl:          /
+
+author:
+  name:           'Katie Cunningham'
+  url:            https://twitter.com/katieirenec
+
+paginate:         5
+
+# Custom vars
+version:          0.1.0
+
+github:
+  repo:           
